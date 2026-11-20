@@ -1,6 +1,6 @@
 {
-  "id": "revisions-interro",
-  "name": "Révisions & Interro",
+  "id": "Study-Pilot",
+  "name": "StudyPilot",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
   "description": "Track your revision sessions automatically, quiz yourself at the end of each one, and update every note's progress and next review date.",
