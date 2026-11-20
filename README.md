@@ -1,4 +1,4 @@
-# Révisions & Interro
+# StudyPilot
 
 Track your revision sessions automatically, quiz yourself at the end of each one, and keep every note's progress and next review date up to date. The plugin works in English, French and Spanish.
 
